@@ -116,6 +116,7 @@ header{
 
 #nav-toggle{
     display: none;
+    cursor: pointer;
 }
 
 header h2{
